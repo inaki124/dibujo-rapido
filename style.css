@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://preview.redd.it/6pnbsilrvhj21.jpg?auto=webp&s=ae9008b66f1d2f911725187855251ce7724a321e);
+    background-size: cover;
+}
+
+#span1{
+font-size: 30px;
+margin-left: auto;
+font-family:'Times New Roman', Times, serif;
+color:black;
+}
+
+#span2{
+    font-size: 30px;
+    margin-right:4%;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    float: right;
+    }
+
+    #p3{
+        color: black;
+        font-size: 20px;
+    }
